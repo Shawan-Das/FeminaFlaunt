@@ -1,0 +1,68 @@
+{
+  "_readme": "Edit this file to update contact details across the whole website. Values set to empty strings (\"\") are hidden on the site automatically until filled in.",
+
+  "business": {
+    "name": "Femina Flaunt By Sabina",
+    "tagline": "Luxury Beauty · Skin · Wellness · Bridal",
+    "shortName": "Femina Flaunt",
+    "founder": "Sabina Akhtar Luna"
+  },
+
+  "phone": {
+    "display": "+880 1773-302183",
+    "tel": "+8801773302183"
+  },
+
+  "whatsapp": {
+    "number": "8801773302183",
+    "prefillDefault": "Hello Femina Flaunt, I would like to know more about your services.",
+    "prefillBridal": "Hello Femina Flaunt, I would like to know more about your bridal services.",
+    "prefillBooking": "Hello Femina Flaunt, I would like to book an appointment."
+  },
+
+  "email": {
+    "address": "",
+    "_note": "No confirmed business email yet — leave empty until owner approves one."
+  },
+
+  "address": {
+    "lines": ["House 7/A, Basic Builders, 3rd Floor", "Road 45, Gulshan-2, Dhaka"],
+    "short": "Gulshan-2, Dhaka",
+    "mapsQuery": "Femina Flaunt By Sabina, Road 45, Gulshan 2, Dhaka"
+  },
+
+  "hours": {
+    "days": "Open every day",
+    "time": "10:00 AM – 9:00 PM",
+    "short": "Open Daily · 10 AM – 9 PM"
+  },
+
+  "google": {
+    "rating": "5.0",
+    "reviewCount": "42",
+    "_note": "Dossier figures — verify before launch. Update here, not in code."
+  },
+
+  "social": {
+    "instagram": "",
+    "facebook": "https://www.facebook.com/feminaflauntbangladesh/"
+  },
+
+  "links": {
+    "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Femina+Flaunt+By+Sabina+Road+45+Gulshan+2+Dhaka",
+    "reviewUrl": ""
+  },
+
+  "bookingServices": {
+    "_note": "Services shown in the booking form dropdown — edit freely.",
+    "services": [
+      "Hair",
+      "Skin",
+      "Bridal Makeup",
+      "Makeup",
+      "Grooming",
+      "Wellness",
+      "Body Contouring"
+    ]
+  }
+}
